@@ -15,3 +15,10 @@ It provides **interactive dashboards and visualizations** built with Streamlit, 
 ---
 
 ## 📂 Project Structure
+NYC-Airbnb-Analysis/
+│── data/ # Dataset files (CSV, cleaned data, etc.)
+│── app.py # Main Streamlit application
+│── requirements.txt # Dependencies for the project
+│── README.md # Project documentation
+│── notebooks/ # Jupyter notebooks for exploration
+│── images/ # Saved plots & screenshots
